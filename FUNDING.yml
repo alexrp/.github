@@ -1,1 +1,3 @@
-github: [alexrp]
+# yaml-language-server: $schema=https://json.schemastore.org/github-funding.json
+github:
+    - alexrp
