@@ -1,9 +1,9 @@
 # Security
 
-Please do not report security issues through GitHub; instead, send an email to
-<alex@alexrp> with all relevant information. You will usually get a response
-within a day or two.
+Please use the project's
+[GitHub private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
+page to report security issues.
 
-Once the issue has been confirmed and a fix implemented, a new release will be
-published. This will usually be a patch-level release unless a more significant
-major/minor-level release coincides with the fix.
+Once the vulnerability has been confirmed and a fix implemented, a new release
+will be published. This will usually be a patch-level release unless a more
+significant major/minor-level release coincides with the fix.
